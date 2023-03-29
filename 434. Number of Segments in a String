@@ -1,0 +1,8 @@
+class Solution(object):
+    def countSegments(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        a = len(s.split())
+        return a
